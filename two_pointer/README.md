@@ -18,7 +18,7 @@
 
 [백준 문제집](https://www.acmicpc.net/workbook/view/6782)
 |          순번          |        추천 문제         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |        풀이 완료         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11728" target="_blank">11728</a> | <a href="https://www.acmicpc.net/problem/11728" target="_blank">배열 합치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |                      |  :heavy_check_mark:  |
 | 01 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/11659" target="_blank">11659</a> | <a href="https://www.acmicpc.net/problem/11659" target="_blank">구간 합 구하기 4</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |                      |  :heavy_check_mark:  |
 | 02 |  :heavy_check_mark:  | <a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a> | <a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
